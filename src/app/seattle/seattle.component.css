@@ -1,0 +1,21 @@
+.info {
+  border : 5px solid orange;
+  border-radius: 25px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+li{
+  font-size: 1em;
+}
+
+.inline-blk{
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding: 1em;
+  display: inline-block;
+  width: 45%;
+  vertical-align : top;
+}
